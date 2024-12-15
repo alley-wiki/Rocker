@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rocker/static/css/main.7eec2656.css",
+    "main.js": "/Rocker/static/js/main.cf9b6b6e.js",
+    "index.html": "/Rocker/index.html",
+    "main.7eec2656.css.map": "/Rocker/static/css/main.7eec2656.css.map",
+    "main.cf9b6b6e.js.map": "/Rocker/static/js/main.cf9b6b6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eec2656.css",
+    "static/js/main.cf9b6b6e.js"
+  ]
+}
