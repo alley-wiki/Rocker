@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Rocker/%20/static/css/main.cc64cd0c.css",
-    "main.js": "/Rocker/%20/static/js/main.82442ce3.js",
-    "index.html": "/Rocker/%20/index.html",
-    "main.cc64cd0c.css.map": "/Rocker/%20/static/css/main.cc64cd0c.css.map",
-    "main.82442ce3.js.map": "/Rocker/%20/static/js/main.82442ce3.js.map"
+    "main.css": "/Rocker/static/css/main.cc64cd0c.css",
+    "main.js": "/Rocker/static/js/main.82442ce3.js",
+    "index.html": "/Rocker/index.html",
+    "main.cc64cd0c.css.map": "/Rocker/static/css/main.cc64cd0c.css.map",
+    "main.82442ce3.js.map": "/Rocker/static/js/main.82442ce3.js.map"
   },
   "entrypoints": [
     "static/css/main.cc64cd0c.css",
