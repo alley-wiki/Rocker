@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Rocker/static/css/main.cc64cd0c.css",
-    "main.js": "/Rocker/static/js/main.9d042aa4.js",
+    "main.js": "/Rocker/static/js/main.dab469b7.js",
+    "static/media/rocker.png": "/Rocker/static/media/rocker.8efafc233c7c7ce38644.png",
     "index.html": "/Rocker/index.html",
     "main.cc64cd0c.css.map": "/Rocker/static/css/main.cc64cd0c.css.map",
-    "main.9d042aa4.js.map": "/Rocker/static/js/main.9d042aa4.js.map"
+    "main.dab469b7.js.map": "/Rocker/static/js/main.dab469b7.js.map"
   },
   "entrypoints": [
     "static/css/main.cc64cd0c.css",
-    "static/js/main.9d042aa4.js"
+    "static/js/main.dab469b7.js"
   ]
 }
